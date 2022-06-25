@@ -1,0 +1,32 @@
+[
+  
+    {
+      "id": 1,
+      "title": "flight to canada",
+      "time": "1pm",
+      "price": 26000,
+      "date": "26-09-2022"
+    },
+    {
+        "id": 2,
+        "title": "flight to Dubai",
+        "time": "1pm",
+        "price": 26000,
+        "date": "24-08-2022"
+    },
+    {
+          "id": 3,
+          "title": "flight to USA",
+          "time": "1pm",
+          "price": 30000,
+          "date": "27-07-2022"
+    },
+    {
+            "id": 4,
+            "title": "flight to helsinki",
+            "time": "1pm",
+            "price": 26000,
+            "date": "25-05-2022"
+    }
+    
+  ]
